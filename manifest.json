@@ -1,0 +1,18 @@
+{
+  "name": "Reunión 20.00hs - CRM Mobile",
+  "short_name": "CRM 20hs",
+  "description": "Sistema de gestión pastoral y seguimiento móvil",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/906/906343.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
